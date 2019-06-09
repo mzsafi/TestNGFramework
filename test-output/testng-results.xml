@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="1" ignored="0" total="11" passed="10">
+  <reporter-output>
+  </reporter-output>
+  <suite name="First Suite" duration-ms="44358" started-at="2019-06-02T20:16:17Z" finished-at="2019-06-02T20:17:01Z">
+    <groups>
+    </groups>
+    <test name="Chrome Test" duration-ms="44358" started-at="2019-06-02T20:16:17Z" finished-at="2019-06-02T20:17:01Z">
+      <class name="Framework.TestNG.Practice1">
+        <test-method status="PASS" signature="setEnviroment()[pri:0, instance:Framework.TestNG.Practice1@3abbfa04]" name="setEnviroment" is-config="true" duration-ms="3897" started-at="2019-06-02T20:16:24Z" finished-at="2019-06-02T20:16:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setEnviroment -->
+        <test-method status="PASS" signature="shoppingCartTest()[pri:1, instance:Framework.TestNG.Practice1@3abbfa04]" name="shoppingCartTest" duration-ms="2550" started-at="2019-06-02T20:16:28Z" finished-at="2019-06-02T20:16:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- shoppingCartTest -->
+        <test-method status="PASS" signature="closeTheEnviroment()[pri:0, instance:Framework.TestNG.Practice1@3abbfa04]" name="closeTheEnviroment" is-config="true" duration-ms="3483" started-at="2019-06-02T20:16:30Z" finished-at="2019-06-02T20:16:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeTheEnviroment -->
+        <test-method status="PASS" signature="setEnviroment()[pri:0, instance:Framework.TestNG.Practice1@3abbfa04]" name="setEnviroment" is-config="true" duration-ms="4036" started-at="2019-06-02T20:16:34Z" finished-at="2019-06-02T20:16:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setEnviroment -->
+        <test-method status="PASS" signature="loginScenario1()[pri:2, instance:Framework.TestNG.Practice1@3abbfa04]" name="loginScenario1" duration-ms="2722" started-at="2019-06-02T20:16:38Z" finished-at="2019-06-02T20:16:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginScenario1 -->
+        <test-method status="PASS" signature="closeTheEnviroment()[pri:0, instance:Framework.TestNG.Practice1@3abbfa04]" name="closeTheEnviroment" is-config="true" duration-ms="699" started-at="2019-06-02T20:16:41Z" finished-at="2019-06-02T20:16:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeTheEnviroment -->
+        <test-method status="PASS" signature="setEnviroment()[pri:0, instance:Framework.TestNG.Practice1@3abbfa04]" name="setEnviroment" is-config="true" duration-ms="3561" started-at="2019-06-02T20:16:42Z" finished-at="2019-06-02T20:16:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setEnviroment -->
+        <test-method status="PASS" signature="loginScenario2()[pri:3, instance:Framework.TestNG.Practice1@3abbfa04]" name="loginScenario2" duration-ms="2038" started-at="2019-06-02T20:16:45Z" finished-at="2019-06-02T20:16:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginScenario2 -->
+        <test-method status="PASS" signature="closeTheEnviroment()[pri:0, instance:Framework.TestNG.Practice1@3abbfa04]" name="closeTheEnviroment" is-config="true" duration-ms="709" started-at="2019-06-02T20:16:47Z" finished-at="2019-06-02T20:16:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeTheEnviroment -->
+        <test-method status="PASS" signature="setEnviroment()[pri:0, instance:Framework.TestNG.Practice1@3abbfa04]" name="setEnviroment" is-config="true" duration-ms="3615" started-at="2019-06-02T20:16:48Z" finished-at="2019-06-02T20:16:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setEnviroment -->
+        <test-method status="PASS" signature="loginScenario3()[pri:4, instance:Framework.TestNG.Practice1@3abbfa04]" name="loginScenario3" duration-ms="2200" started-at="2019-06-02T20:16:51Z" finished-at="2019-06-02T20:16:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginScenario3 -->
+        <test-method status="PASS" signature="closeTheEnviroment()[pri:0, instance:Framework.TestNG.Practice1@3abbfa04]" name="closeTheEnviroment" is-config="true" duration-ms="669" started-at="2019-06-02T20:16:54Z" finished-at="2019-06-02T20:16:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeTheEnviroment -->
+        <test-method status="PASS" signature="setEnviroment()[pri:0, instance:Framework.TestNG.Practice1@3abbfa04]" name="setEnviroment" is-config="true" duration-ms="3572" started-at="2019-06-02T20:16:54Z" finished-at="2019-06-02T20:16:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setEnviroment -->
+        <test-method status="PASS" signature="loginScenario4()[pri:5, instance:Framework.TestNG.Practice1@3abbfa04]" name="loginScenario4" duration-ms="2444" started-at="2019-06-02T20:16:58Z" finished-at="2019-06-02T20:17:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginScenario4 -->
+        <test-method status="PASS" signature="closeTheEnviroment()[pri:0, instance:Framework.TestNG.Practice1@3abbfa04]" name="closeTheEnviroment" is-config="true" duration-ms="699" started-at="2019-06-02T20:17:00Z" finished-at="2019-06-02T20:17:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeTheEnviroment -->
+      </class> <!-- Framework.TestNG.Practice1 -->
+      <class name="Framework.TestNG.TestNGBasics">
+        <test-method status="PASS" signature="testsuite()[pri:0, instance:Framework.TestNG.TestNGBasics@13deb50e]" name="testsuite" is-config="true" duration-ms="16" started-at="2019-06-02T20:16:17Z" finished-at="2019-06-02T20:16:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testsuite -->
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:Framework.TestNG.TestNGBasics@13deb50e]" name="beforeTest" is-config="true" duration-ms="0" started-at="2019-06-02T20:16:17Z" finished-at="2019-06-02T20:16:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="testCase()[pri:0, instance:Framework.TestNG.TestNGBasics@13deb50e]" name="testCase" duration-ms="15" started-at="2019-06-02T20:16:17Z" finished-at="2019-06-02T20:16:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCase -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:Framework.TestNG.TestNGBasics@13deb50e]" name="beforeMethod" is-config="true" duration-ms="0" started-at="2019-06-02T20:16:17Z" finished-at="2019-06-02T20:16:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:Framework.TestNG.TestNGBasics@13deb50e]" name="beforeClass" is-config="true" duration-ms="0" started-at="2019-06-02T20:16:17Z" finished-at="2019-06-02T20:16:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:Framework.TestNG.TestNGBasics@13deb50e]" name="beforeMethod" is-config="true" duration-ms="0" started-at="2019-06-02T20:16:17Z" finished-at="2019-06-02T20:16:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="testCase2()[pri:0, instance:Framework.TestNG.TestNGBasics@13deb50e]" name="testCase2" duration-ms="0" started-at="2019-06-02T20:16:17Z" finished-at="2019-06-02T20:16:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCase2 -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:Framework.TestNG.TestNGBasics@13deb50e]" name="afterMethod" is-config="true" duration-ms="0" started-at="2019-06-02T20:16:17Z" finished-at="2019-06-02T20:16:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:Framework.TestNG.TestNGBasics@13deb50e]" name="afterMethod" is-config="true" duration-ms="17" started-at="2019-06-02T20:16:17Z" finished-at="2019-06-02T20:16:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:Framework.TestNG.TestNGBasics@13deb50e]" name="afterClass" is-config="true" duration-ms="0" started-at="2019-06-02T20:16:17Z" finished-at="2019-06-02T20:16:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:Framework.TestNG.TestNGBasics@13deb50e]" name="afterTest" is-config="true" duration-ms="0" started-at="2019-06-02T20:17:01Z" finished-at="2019-06-02T20:17:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+        <test-method status="PASS" signature="aftersuite()[pri:0, instance:Framework.TestNG.TestNGBasics@13deb50e]" name="aftersuite" is-config="true" duration-ms="0" started-at="2019-06-02T20:17:01Z" finished-at="2019-06-02T20:17:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftersuite -->
+      </class> <!-- Framework.TestNG.TestNGBasics -->
+      <class name="Framework.TestNG.Practice2">
+        <test-method status="PASS" signature="setEnviroment()[pri:0, instance:Framework.TestNG.Practice2@57fffcd7]" name="setEnviroment" is-config="true" duration-ms="4365" started-at="2019-06-02T20:16:24Z" finished-at="2019-06-02T20:16:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setEnviroment -->
+        <test-method status="PASS" signature="hpLaptop()[pri:1, instance:Framework.TestNG.Practice2@57fffcd7]" name="hpLaptop" duration-ms="5692" started-at="2019-06-02T20:16:28Z" finished-at="2019-06-02T20:16:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- hpLaptop -->
+        <test-method status="PASS" signature="macBook()[pri:2, instance:Framework.TestNG.Practice2@57fffcd7]" name="macBook" duration-ms="3961" started-at="2019-06-02T20:16:34Z" finished-at="2019-06-02T20:16:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- macBook -->
+        <test-method status="PASS" signature="closeTheEnviroment()[pri:0, instance:Framework.TestNG.Practice2@57fffcd7]" name="closeTheEnviroment" is-config="true" duration-ms="763" started-at="2019-06-02T20:16:38Z" finished-at="2019-06-02T20:16:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeTheEnviroment -->
+      </class> <!-- Framework.TestNG.Practice2 -->
+      <class name="Framework.TestNG.LoginTest">
+        <test-method status="PASS" signature="setEnviroment()[pri:0, instance:Framework.TestNG.LoginTest@239963d8]" name="setEnviroment" is-config="true" duration-ms="4762" started-at="2019-06-02T20:16:17Z" finished-at="2019-06-02T20:16:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setEnviroment -->
+        <test-method status="PASS" signature="testTheLoginBtn()[pri:0, instance:Framework.TestNG.LoginTest@239963d8]" name="testTheLoginBtn" duration-ms="1708" started-at="2019-06-02T20:16:22Z" finished-at="2019-06-02T20:16:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testTheLoginBtn -->
+        <test-method status="PASS" signature="closeTheEnviroment()[pri:0, instance:Framework.TestNG.LoginTest@239963d8]" name="closeTheEnviroment" is-config="true" duration-ms="755" started-at="2019-06-02T20:16:23Z" finished-at="2019-06-02T20:16:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeTheEnviroment -->
+        <test-method status="PASS" signature="setEnviroment()[pri:0, instance:Framework.TestNG.LoginTest@239963d8]" name="setEnviroment" is-config="true" duration-ms="4432" started-at="2019-06-02T20:16:24Z" finished-at="2019-06-02T20:16:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setEnviroment -->
+        <test-method status="FAIL" signature="testLogIn()[pri:1, instance:Framework.TestNG.LoginTest@239963d8]" name="testLogIn" duration-ms="4050" started-at="2019-06-02T20:16:28Z" finished-at="2019-06-02T20:16:33Z">
+          <exception class="java.lang.AssertionError">
+            <message>
+              <![CDATA[The app did not log in expected [My Account] but found [Account Login]]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.AssertionError: The app did not log in expected [My Account] but found [Account Login]
+at org.testng.Assert.fail(Assert.java:96)
+at org.testng.Assert.failNotEquals(Assert.java:776)
+at org.testng.Assert.assertEqualsImpl(Assert.java:137)
+at org.testng.Assert.assertEquals(Assert.java:118)
+at org.testng.Assert.assertEquals(Assert.java:453)
+at Framework.TestNG.LoginTest.testLogIn(LoginTest.java:47)
+at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+at java.lang.reflect.Method.invoke(Unknown Source)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:124)
+at org.testng.internal.Invoker.invokeMethod(Invoker.java:583)
+at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:719)
+at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:989)
+at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
+at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+at java.lang.Thread.run(Unknown Source)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AssertionError -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLogIn -->
+        <test-method status="PASS" signature="closeTheEnviroment()[pri:0, instance:Framework.TestNG.LoginTest@239963d8]" name="closeTheEnviroment" is-config="true" duration-ms="883" started-at="2019-06-02T20:16:33Z" finished-at="2019-06-02T20:16:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeTheEnviroment -->
+      </class> <!-- Framework.TestNG.LoginTest -->
+    </test> <!-- Chrome Test -->
+  </suite> <!-- First Suite -->
+</testng-results>

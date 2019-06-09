@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="First Suite" parallel="classes">
+	<test name="Chrome Test" parallel="classes">
+		<classes>
+			<class name="Framework.TestNG.LoginTest" />
+			<class name="Framework.TestNG.Practice1" />
+			<class name="Framework.TestNG.Practice2" />
+			<class name="Framework.TestNG.TestNGBasics" />
+		</classes>
+	</test>
+</suite>

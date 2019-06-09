@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [First Suite]" parallel="classes">
+  <test thread-count="5" name="Chrome Test(failed)" parallel="classes">
+    <classes>
+      <class name="Framework.TestNG.LoginTest">
+        <methods>
+          <include name="setEnviroment"/>
+          <include name="closeTheEnviroment"/>
+          <include name="testLogIn"/>
+        </methods>
+      </class> <!-- Framework.TestNG.LoginTest -->
+    </classes>
+  </test> <!-- Chrome Test(failed) -->
+</suite> <!-- Failed suite [First Suite] -->
